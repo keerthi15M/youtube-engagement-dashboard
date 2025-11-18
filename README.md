@@ -68,11 +68,12 @@ This helped identify:
 
 ```
 youtube-engagement-dashboard/
-│
-├── youtube-dashboard.py            # Python script for API & data cleaning
-├── youtube_top6_clean.csv          # Final processed dataset
-├── Youtube engagment dashboard.pbix         # Power BI dashboard file
-└── README.md                       # Documentation
+├── youtube_dashboard_repo/           # Auto-created folder with script + CSV (Git automation)
+│   ├── youtube-dashboard.py          # Python script for YouTube API extraction + cleaning
+│   ├── youtube_top6_clean.csv        # Final cleaned dataset (Top 6 Shorts)
+│   ├── Youtube engagment dashboard.pbix  # Power BI Dashboard file
+    └── README.md                     # Project documentation
+
 ```
 
 ---
