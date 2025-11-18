@@ -130,12 +130,7 @@ This project demonstrates:
 ## 📧 **Contact**
 
 **Keerthi M**
-🔗 GitHub: [https://github.com/keerthi15M]
 📩 Email: [keerthi1052031@gmail.com]
 
 ---
 
-If you want, I can also generate:
-✅ A project banner for GitHub
-✅ A shorter version of the README
-✅ A more aesthetic version with emojis and icons
